@@ -11,3 +11,4 @@ for i=1:10
   disp('i luv life')
 end
 ```
+<script src="https://gist.github.com/njmennona/6fa764bd487028fc89e5a868ab23157b.js"></script>
