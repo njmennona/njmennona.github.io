@@ -60,19 +60,21 @@ author:
   avatar : "/assets/images/Nicholas Mennona_22-01-26_2216.jpg"
   bio    : "Physics PhD at UMD! I study awesome brain cells in vitro and have a passion for many things (more to come soon!)."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+   # - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+   # - label: "Instagram"
+   #   icon: "fab fa-fw fa-instagram"
+   #   url: "https://instagram.com/"
+    - label: "BioRxiv"
+      icon: "ai ai-fw ai-biorxiv"
+      url: "https://biorxiv.org"
 footer:
   links:
     - label: "Twitter"
