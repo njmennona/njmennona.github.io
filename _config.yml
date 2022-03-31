@@ -84,7 +84,7 @@ footer:
     - #label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
-    -label: "BioRxiv"
+    - label: "BioRxiv"
       icon: "ai ai-fw ai-biorxiv"
       url: "https://biorxiv.org"
 
