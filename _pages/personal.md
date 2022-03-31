@@ -4,3 +4,10 @@ layout: single
 author_profile: true 
 permalink: /personal/ 
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg “Open in Colab”)]https://githubtocolab.com/awikner/awikner.github.io/blob/master/reservoir_tensorflow.ipynb
+
+```matlab
+for i=1:10
+  disp('i luv life')
+end
+```
